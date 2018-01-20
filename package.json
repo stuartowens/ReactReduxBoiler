@@ -1,0 +1,23 @@
+{
+  "name": "Dialword-Boiler",
+  "description": "Boilerplate code for a react/redux app using redux-logic",
+  "repository": "https://github.com/stuartowens/ReactReduxBoiler.git",
+  "license": "MIT",
+  "version": "0.0.1",
+  "devDependencies": {
+    "chalk": "^2.3.0",
+    "webpack-dev-server": "^2.11.0"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bluebird": "^3.5.1",
+    "react": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-logic": "^0.12.3",
+    "rxjs": "^5.5.6"
+  },
+  "scripts": {},
+  "eslintConfig": {}
+}
