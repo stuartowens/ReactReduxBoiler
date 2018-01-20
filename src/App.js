@@ -8,4 +8,4 @@ export function App(props) {
       </div>)
   }
 
-export defualt App;
+export default App;
